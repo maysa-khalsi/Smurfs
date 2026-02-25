@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmurfsBL/SmurfsBL.csproj" />
+  <Project Path="SmurfsDAL/SmurfsDAL.csproj" />
+</Solution>

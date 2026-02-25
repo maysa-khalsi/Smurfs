@@ -1,0 +1,17 @@
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsDAL.deps.json
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsDAL.runtimeconfig.json
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsDAL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsDAL.pdb
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsBL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\bin\Debug\net10.0\SmurfsBL.pdb
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.csproj.AssemblyReference.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.AssemblyInfoInputs.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.AssemblyInfo.cs
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.csproj.CoreCompileInputs.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.csproj.Up2Date
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\refint\SmurfsDAL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.pdb
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.genruntimeconfig.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\ref\SmurfsDAL.dll

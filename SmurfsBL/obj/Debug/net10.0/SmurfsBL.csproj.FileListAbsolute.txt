@@ -1,0 +1,14 @@
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\bin\Debug\net10.0\SmurfsBL.deps.json
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\bin\Debug\net10.0\SmurfsBL.runtimeconfig.json
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\bin\Debug\net10.0\SmurfsBL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\bin\Debug\net10.0\SmurfsBL.pdb
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.csproj.AssemblyReference.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.AssemblyInfoInputs.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.AssemblyInfo.cs
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.csproj.CoreCompileInputs.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\refint\SmurfsBL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.pdb
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.genruntimeconfig.cache
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\ref\SmurfsBL.dll
