@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MarioControlLibrary/MarioControlLibrary.csproj" />
+  <Project Path="TesterUserControl/TesterUserControl.csproj" />
+</Solution>
