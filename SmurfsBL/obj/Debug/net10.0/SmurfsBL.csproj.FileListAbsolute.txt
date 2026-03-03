@@ -12,3 +12,4 @@ C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\refint\Smurf
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.pdb
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.genruntimeconfig.cache
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\ref\SmurfsBL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsBL\obj\Debug\net10.0\SmurfsBL.sourcelink.json

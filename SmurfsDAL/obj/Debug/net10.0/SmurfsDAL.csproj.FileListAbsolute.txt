@@ -15,3 +15,4 @@ C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\refint\Smur
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.pdb
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.genruntimeconfig.cache
 C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\ref\SmurfsDAL.dll
+C:\Users\khals\OneDrive\Bureau\c#\Smurfs\SmurfsDAL\obj\Debug\net10.0\SmurfsDAL.sourcelink.json

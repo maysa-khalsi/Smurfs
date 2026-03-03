@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmurfsBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+359b75cf56dc0d97179c7bf8bedd973ae1d5c64c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmurfsBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmurfsBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

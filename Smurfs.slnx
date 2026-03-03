@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="SmurfsBL/SmurfsBL.csproj" />
   <Project Path="SmurfsDAL/SmurfsDAL.csproj" />
+  <Project Path="SmurfsTest/SmurfsTest.csproj" Id="8bbf030a-337d-4591-8de1-29294cc3bb97" />
 </Solution>
